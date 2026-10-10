@@ -1,4 +1,3 @@
-root@VM-0-8-ubuntu:~# cat /var/www/codex-adapter/server.ts 
 // codex-adapter: OpenAI Responses API (/v1/responses) -> OpenAI Chat Completions (New API)
 //
 // ENV:
